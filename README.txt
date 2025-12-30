@@ -19,5 +19,12 @@ Setup Instructions:
 7. In Visual Studio: Build → Build Solution.
 8. Run → Start Without Debugging (Ctrl + F5).
 
+============================
+ Project-2:
+OpenCV-based video analysis of VAST Challenge CCTV footage. Performs background subtraction, noise removal, moving object detection, centroid-based tracking, and generates a combined 2×2 visualization with saved output video and screenshots.
+
+============================
+ Project-3: 
+C++ / VTK project analyzing the IEEE VAST 2009 M2 social network to detect an espionage hierarchy. Identifies the employee, handlers, middlemen, and a Fearless Leader, classifying the network as Model B and producing a visual hierarchy.
 
 
